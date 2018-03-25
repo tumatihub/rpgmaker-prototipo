@@ -5,5 +5,6 @@ null,
 {"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":223,"name":"Martelo espinhento","note":"","params":[0,0,20,0,0,0,0,0],"price":0,"wtypeId":2},
 {"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Arco","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
 {"id":5,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":216,"name":"Picareta","note":"","params":[0,0,1,0,0,0,0,0],"price":1,"wtypeId":13},
-{"id":6,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":9,"value":1}],"iconIndex":223,"name":"Martelo espinhento de fogo","note":"","params":[0,0,20,0,20,0,0,0],"price":0,"wtypeId":2}
+{"id":6,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":9,"value":1}],"iconIndex":223,"name":"Martelo espinhento de fogo","note":"","params":[0,0,20,0,20,0,0,0],"price":0,"wtypeId":2},
+{"id":7,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":2,"value":0},{"code":22,"dataId":0,"value":0},{"code":43,"dataId":9,"value":1}],"iconIndex":223,"name":"Martelo de Orc","note":"","params":[0,0,50,0,30,0,0,0],"price":0,"wtypeId":2}
 ]
